@@ -1,0 +1,21 @@
+EmployeeID,Department,Gender,Education,Attrition,MonthlyIncome
+1,Sales,Male,PhD,Yes,129000
+2,Sales,Male,Bachelor,No,84612
+3,Research & Development,Female,Master,No,149743
+4,HR,Male,Bachelor,No,69666
+5,HR,Male,Master,Yes,104923
+6,Sales,Female,PhD,No,121044
+7,Research & Development,Female,Master,Yes,140629
+8,Research & Development,Female,Bachelor,Yes,120214
+9,HR,Female,PhD,No,57764
+10,Research & Development,Female,Bachelor,Yes,93336
+11,Research & Development,Female,Bachelor,Yes,61774
+12,Research & Development,Female,Bachelor,No,146285
+13,Research & Development,Female,Bachelor,Yes,92461
+14,HR,Male,PhD,Yes,69053
+15,HR,Female,Bachelor,No,90309
+16,Sales,Male,PhD,Yes,119025
+17,Sales,Female,PhD,Yes,100982
+18,Sales,Male,Bachelor,No,81760
+19,Research & Development,Male,Bachelor,No,148980
+20,HR,Male,Master,Yes,89550
